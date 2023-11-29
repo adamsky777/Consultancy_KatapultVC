@@ -22,6 +22,11 @@ SELECT
     cfi.LastFinancingSize,
     cfi.LastFinancingDate,
     cfi.LastKnownValuation,
+    d.VCRound,
+    d.TotalInvestedEquity,
+    d.TotalInvestedCapital,
+    d.Dealsize,
+    dti.DealType,
     c.Website
 FROM 
     (
@@ -39,4 +44,7 @@ JOIN
     pitchbook_db.CompanyOnlineInfo AS coi ON c.CompanyID = coi.CompanyID 
 JOIN 
 	pitchbook_db.CompanyIndustryInfo cii on c.CompanyID = cii.CompanyID
-
+JOIN
+	pitchbook_db.Deal d on c.CompanyID = d.CompanyID
+JOIN 
+	pitchbook_db.DealTypeInfo dti on dti.DealID = d.DealID
