@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-12-10T15:45:06.392633</dc:date>
+    <dc:date>2023-12-10T15:50:18.548014</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -565,7 +565,7 @@ z
     <g id="ytick_2">
      <g id="text_5">
       <!-- 200 -->
-      <g style="fill: #ffffff" transform="translate(102.317188 461.183076) scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(102.317188 426.537378) scale(0.1 -0.1)">
        <use xlink:href="#ArialMT-32"/>
        <use xlink:href="#ArialMT-30" x="55.615234"/>
        <use xlink:href="#ArialMT-30" x="111.230469"/>
@@ -575,7 +575,7 @@ z
     <g id="ytick_3">
      <g id="text_6">
       <!-- 400 -->
-      <g style="fill: #ffffff" transform="translate(102.317188 406.147245) scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(102.317188 336.855849) scale(0.1 -0.1)">
        <defs>
         <path id="ArialMT-34" d="M 2069 0 
 L 2069 1097 
@@ -606,7 +606,7 @@ z
     <g id="ytick_4">
      <g id="text_7">
       <!-- 600 -->
-      <g style="fill: #ffffff" transform="translate(102.317188 351.111414) scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(102.317188 247.17432) scale(0.1 -0.1)">
        <use xlink:href="#ArialMT-36"/>
        <use xlink:href="#ArialMT-30" x="55.615234"/>
        <use xlink:href="#ArialMT-30" x="111.230469"/>
@@ -616,7 +616,7 @@ z
     <g id="ytick_5">
      <g id="text_8">
       <!-- 800 -->
-      <g style="fill: #ffffff" transform="translate(102.317188 296.075584) scale(0.1 -0.1)">
+      <g style="fill: #ffffff" transform="translate(102.317188 157.492792) scale(0.1 -0.1)">
        <defs>
         <path id="ArialMT-38" d="M 1131 2484 
 Q 781 2613 612 2850 
@@ -665,53 +665,9 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_6">
-     <g id="text_9">
-      <!-- 1000 -->
-      <g style="fill: #ffffff" transform="translate(96.75625 241.039753) scale(0.1 -0.1)">
-       <use xlink:href="#ArialMT-31"/>
-       <use xlink:href="#ArialMT-30" x="55.615234"/>
-       <use xlink:href="#ArialMT-30" x="111.230469"/>
-       <use xlink:href="#ArialMT-30" x="166.845703"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_7">
-     <g id="text_10">
-      <!-- 1200 -->
-      <g style="fill: #ffffff" transform="translate(96.75625 186.003923) scale(0.1 -0.1)">
-       <use xlink:href="#ArialMT-31"/>
-       <use xlink:href="#ArialMT-32" x="55.615234"/>
-       <use xlink:href="#ArialMT-30" x="111.230469"/>
-       <use xlink:href="#ArialMT-30" x="166.845703"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_8">
-     <g id="text_11">
-      <!-- 1400 -->
-      <g style="fill: #ffffff" transform="translate(96.75625 130.968092) scale(0.1 -0.1)">
-       <use xlink:href="#ArialMT-31"/>
-       <use xlink:href="#ArialMT-34" x="55.615234"/>
-       <use xlink:href="#ArialMT-30" x="111.230469"/>
-       <use xlink:href="#ArialMT-30" x="166.845703"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_9">
-     <g id="text_12">
-      <!-- 1600 -->
-      <g style="fill: #ffffff" transform="translate(96.75625 75.932261) scale(0.1 -0.1)">
-       <use xlink:href="#ArialMT-31"/>
-       <use xlink:href="#ArialMT-36" x="55.615234"/>
-       <use xlink:href="#ArialMT-30" x="111.230469"/>
-       <use xlink:href="#ArialMT-30" x="166.845703"/>
-      </g>
-     </g>
-    </g>
-    <g id="text_13">
+    <g id="text_9">
      <!-- Number of companies founded -->
-     <g style="fill: #ffffff" transform="translate(90.76875 359.24875) rotate(-90) scale(0.1 -0.1)">
+     <g style="fill: #ffffff" transform="translate(96.329688 359.24875) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="ArialMT-4e" d="M 488 0 
 L 488 4581 
@@ -899,10 +855,10 @@ z
    <g id="patch_3">
     <path d="M 161.509091 512.64 
 L 477.145455 512.64 
-L 477.145455 288.093811 
-L 161.509091 288.093811 
+L 477.145455 375.875669 
+L 161.509091 375.875669 
 z
-" clip-path="url(#p6e054944f3)" style="fill: #2a99d5; stroke: #ffffff; stroke-linejoin: miter"/>
+" clip-path="url(#pa88f007abf)" style="fill: #2a99d5; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 556.054545 512.64 
@@ -910,7 +866,7 @@ L 871.690909 512.64
 L 871.690909 90.24 
 L 556.054545 90.24 
 z
-" clip-path="url(#p6e054944f3)" style="fill: #ffb546; stroke: #ffffff; stroke-linejoin: miter"/>
+" clip-path="url(#pa88f007abf)" style="fill: #ffb546; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 126 512.64 
@@ -932,7 +888,7 @@ L 907.2 512.64
 L 907.2 69.12 
 " style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
-   <g id="text_14">
+   <g id="text_10">
     <!-- Distribution of companies founded with term "AI" in their name in last 12 years -->
     <g style="fill: #ffffff" transform="translate(309.920625 63.12) scale(0.12 -0.12)">
      <defs>
@@ -1149,7 +1105,7 @@ Q 131 119.555938 133 119.555938
 z
 " style="fill: #deebf7; opacity: 0.8; stroke: #051c2a; stroke-linejoin: miter"/>
     </g>
-    <g id="text_15">
+    <g id="text_11">
      <!-- Years distribution -->
      <g transform="translate(135 85.277813) scale(0.1 -0.1)">
       <use xlink:href="#ArialMT-59"/>
@@ -1180,7 +1136,7 @@ L 135.263281 92.423125
 z
 " style="fill: #2a99d5; stroke: #ffffff; stroke-linejoin: miter"/>
     </g>
-    <g id="text_16">
+    <g id="text_12">
      <!-- 2010-2016 -->
      <g style="fill: #262626" transform="translate(163.263281 99.423125) scale(0.1 -0.1)">
       <use xlink:href="#ArialMT-32"/>
@@ -1202,7 +1158,7 @@ L 135.263281 106.568438
 z
 " style="fill: #ffb546; stroke: #ffffff; stroke-linejoin: miter"/>
     </g>
-    <g id="text_17">
+    <g id="text_13">
      <!-- 2017-2023 -->
      <g style="fill: #262626" transform="translate(163.263281 113.568438) scale(0.1 -0.1)">
       <use xlink:href="#ArialMT-32"/>
@@ -1220,7 +1176,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p6e054944f3">
+  <clipPath id="pa88f007abf">
    <rect x="126" y="69.12" width="781.2" height="443.52"/>
   </clipPath>
  </defs>
