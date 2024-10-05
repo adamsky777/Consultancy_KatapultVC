@@ -5,7 +5,7 @@
 </a>
 
 
-# [`Consultancy Project For Katapult VC`](http://katapult.vc)
+# `Consultancy Project For Katapult VC`
 
 ![Static Badge](https://img.shields.io/badge/mission-Katapult's_Anti_Portfolio-purple)
 <br />
@@ -20,6 +20,7 @@
 [Problem](#Problem) •
 [Proposed Solution](#proposed-solution) •
 [Presentation](#Presentation) •
+[KatapultVC](http://katapult.vc)
 
 
 </div>
@@ -32,6 +33,8 @@
 - [Proposed Solution](#proposed-solution)
 - [Presentation](#presentation)
   - [Full Presentation of the Project](#full-presentation-of-the-project)
+- [KatapultVC](http://katapult.vc)
+
 
 <br />
 
