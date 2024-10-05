@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Problem/Katapult_logo.png" alt="Katapultlogo" width="400" height="300"/>
+<img src="./Problem/Katapult_logo.png" alt="Katapultlogo" width="330" height="250"/>
 
 # `Consultancy Project For Katapult VC`
 
