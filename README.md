@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="./Problem/Katapult_logo.png" alt="Katapultlogo" width="370" height="250"/>
+<a href="http://katapult.vc" target="_blank">
+    <img src="./Problem/Katapult_logo.png" alt="Katapultlogo" width="370" height="250"/>
+</a>
 
-# `Consultancy Project For Katapult VC`
+
+# [`Consultancy Project For Katapult VC`](http://katapult.vc)
 
 ![Static Badge](https://img.shields.io/badge/mission-Katapult's_Anti_Portfolio-purple)
 <br />
