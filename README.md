@@ -15,8 +15,6 @@
 </p>
 
 [Problem](#Problem) •
-[Detailed Description](#detailed-problem-description)
-[Guidelines on identifying proxies](#guidelines-on-identifying-proxies)
 [Proposed Solution](#proposed-solution) •
 [Presentation](#Presentation) •
 
@@ -26,6 +24,8 @@
 ## Navigation
 
 - [Problem](#Problem)
+   - [Detailed Description](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Problem/GRA%2041463_Problem2_Katapult_Business%20Analytics.pdf)
+  - [Guidelines on identifying proxies](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Problem/Guidelines%20for%20Identifying%20Proxies%20in%20Anti-Portfolio%20Tracking.pdf)
 - [Proposed Solution](#proposed-solution)
 - [Presentation](#presentation)
   - [Full Presentation of the Project](#full-presentation-of-the-project)
