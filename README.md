@@ -26,8 +26,6 @@
 ## Navigation
 
 - [Problem](#Problem)
-  - [Detailed Description](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Problem/GRA%2041463_Problem2_Katapult_Business%20Analytics.pdf)
-  - [Guidelines on identifying proxies](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Problem/Guidelines%20for%20Identifying%20Proxies%20in%20Anti-Portfolio%20Tracking.pdf)
 - [Proposed Solution](#proposed-solution)
 - [Presentation](#presentation)
   - [Full Presentation of the Project](#full-presentation-of-the-project)
@@ -77,7 +75,7 @@ changes within markets and environments.
 ### [Full presentation of the project](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Katapult%20VC%20-%20Consultancy%20Project%20.pdf)
      
 
-### Primary contributors
+### Primary contributors:
 
 <a href="https://github.com/adamsky777"><img height="50" src="https://avatars.githubusercontent.com/u/73426467?s=400&u=9c2283f010f179f17aaa58a0b9fbc68efd8014fd&v=4" title="Adam Torkos" width="50"/></a>
 
