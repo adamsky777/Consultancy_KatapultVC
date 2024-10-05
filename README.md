@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Problem/Katapult_logo.png" alt="Katapultlogo" width="370" height="250"/>
+<img src="./Problem/Katapult_logo.png" alt="Katapultlogo" width="400" height="400"/>
 
 # `Consultancy Project For Katapult VC`
 
@@ -15,6 +15,8 @@
 </p>
 
 [Problem](#Problem) •
+[Detailed Description](#detailed-problem-description)
+[Guidelines on identifying proxies](#guidelines-on-identifying-proxies)
 [Proposed Solution](#proposed-solution) •
 [Presentation](#Presentation) •
 
@@ -24,6 +26,8 @@
 ## Navigation
 
 - [Problem](#Problem)
+  - [Detailed Description](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Problem/GRA%2041463_Problem2_Katapult_Business%20Analytics.pdf)
+  - [Guidelines on identifying proxies](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Problem/Guidelines%20for%20Identifying%20Proxies%20in%20Anti-Portfolio%20Tracking.pdf)
 - [Proposed Solution](#proposed-solution)
 - [Presentation](#presentation)
   - [Full Presentation of the Project](#full-presentation-of-the-project)
@@ -39,6 +43,9 @@
 > * Challenge in identifying useful metrics to evaluate companies that were previously passed on (anti-portfolio).
 > *  Venture capital firms often miss learning opportunities from companies they declined but later became successful.
 
+#### [Detailed problem description](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Problem/GRA%2041463_Problem2_Katapult_Business%20Analytics.pdf)
+
+#### [Guidelines on identifying proxies](https://github.com/adamsky777/Consultancy_KatapultVC/blob/main/Problem/Guidelines%20for%20Identifying%20Proxies%20in%20Anti-Portfolio%20Tracking.pdf)
 
 ## Proposed Solution
 
